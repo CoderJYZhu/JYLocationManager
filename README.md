@@ -1,1 +1,1 @@
-# JYLocationManager基于系统框架的实时定位
+### JYLocationManager基于系统框架的实时定位<br>1：判断提醒用户app定位权限的设置；<br>2：更具自定义位置移动距离实时更新当前位置信息 
